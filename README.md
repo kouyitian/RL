@@ -13,7 +13,7 @@ This repository contains a reinforcement learning framework for socially-aware n
 
 ## 📁 Project Structure
 
-social_nav_rl/
+social_nav_rl/  
 ├── envs/
 │ └── gridworld_env.py # Custom RL environment
 ├── scripts/
