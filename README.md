@@ -12,25 +12,41 @@ This repository contains a reinforcement learning framework for socially-aware n
 - **Trajectory Smoothing**: Optional Gaussian smoothing after training.
 
 ## 📁 Project Structure
-<code> 
+
 social_nav_rl/
+
 ├── envs/
+
 │ └── gridworld_env.py # Custom RL environment
+
 ├── scripts/
+
 │ ├── train.py # Main training script
+
 │ └── test.py # Model testing script
+
 ├── utils/
+
 │ ├── callbacks.py # Episode tracking and logging
+
 │ ├── smooth.py # Gaussian smoothing utils
+
 │ └── arg_parser.py # CLI argument parser
+
 ├── energy_map/
+
 │ └── normalized_get_eng_map.py
+
 ├── log/ # Log files
+
 ├── pic/ # Rendered trajectories
+
 ├── main.py # Default entry point
+
 ├── requirements.txt
+
 └── README.md
- </code>
+
 
 ## 🚀 Quick Start
 
