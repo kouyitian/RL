@@ -30,7 +30,7 @@ social_nav_rl/
 ├── main.py # Default entry point
 ├── requirements.txt
 └── README.md
- ``` </code>
+ </code>
 
 ## 🚀 Quick Start
 
