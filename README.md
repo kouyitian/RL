@@ -12,7 +12,7 @@ This repository contains a reinforcement learning framework for socially-aware n
 - **Trajectory Smoothing**: Optional Gaussian smoothing after training.
 
 ## 📁 Project Structure
-
+<code> ``` 
 social_nav_rl/
 ├── envs/
 │ └── gridworld_env.py # Custom RL environment
@@ -30,8 +30,7 @@ social_nav_rl/
 ├── main.py # Default entry point
 ├── requirements.txt
 └── README.md
-
-
+ ``` </code>
 
 ## 🚀 Quick Start
 
